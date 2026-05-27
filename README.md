@@ -52,4 +52,4 @@ Aplicación web interactiva que permite a los conductores en Colombia planificar
 
 ### Contacto
 * 🌐 **GitHub:** [https://github.com/Wilcam1](https://github.com/Wilcam1)
-* ✉️ **Email:** *[Ingresa tu correo aquí]*
+* ✉️ **Email:** *[wncorsmz@gmail.com]*
